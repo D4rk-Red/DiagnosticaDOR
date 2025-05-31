@@ -3,13 +3,10 @@ Script de diagnóstico para Computador
 Recolecta información esencial de hardware y software para evaluar equipos.
 Datos que obtiene:
 
-    Hardware: CPU, RAM, Discos, Batería, GPU
-
-    Sistema: Windows, BIOS, Tiempo de actividad
-
-    Conectividad: USB, WiFi, Bluetooth, HDMI
-
-    Pruebas: Micrófono, Cámara, Sonido
+* Hardware: CPU, RAM, Discos, Batería, GPU
+* Sistema: Windows, BIOS, Tiempo de actividad
+*  Conectividad: USB, WiFi, Bluetooth, HDMI
+*  Pruebas: Micrófono, Cámara, Sonido
 
 Uso: 
 
